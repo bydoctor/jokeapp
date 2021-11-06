@@ -1,5 +1,5 @@
 # jokeapp
-Simple random joke generator with **HTML,CSS and JavaScript**
+Simple random joke generator with **HTML , CSS ([Bulma CSS Framework](https://bulma.io/)) and JavaScript**
 
 - **Unsplash API used** --> [API Link](https://unsplash.com/developers)
 - **Joke API used** --> [API Link](https://api.chucknorris.io/)
